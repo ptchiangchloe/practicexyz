@@ -1,0 +1,35 @@
+
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 24 0 24 24 0 24"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Active-Sections" transform="translate(-20.000000, -202.000000)">
+            <g id="Group-21" transform="translate(0.000000, 118.000000)">
+                <g id="Group-29">
+                    <g id="Rectangle-2-+-Overview-+-icon_configure-copy-7-+-Oval-70-+-ic_filter_list_black_24px-Copy-Copy" transform="translate(0.000000, 59.000000)">
+                        <g id="icon_configure-copy-7-+-Oval-70-+-ic_filter_list_black_24px-Copy">
+                            <g id="icon_configure-copy-7">
+                                <g id="Rectangle-2-+-ic_settings_black_24px-2">
+                                    <rect id="Rectangle-2" x="0" y="0" width="60.25" height="60"></rect>
+                                </g>
+                            </g>
+                            <g id="Oval-70-+-ic_filter_list_black_24px-+-Clipped" transform="translate(10.041667, 10.000000)">
+                                <ellipse id="Oval-70" cx="20.0833333" cy="20" rx="20.0833333" ry="20"></ellipse>
+                                <g id="assesment_icon" transform="translate(8.033333, 9.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="a"></g>
+                                    <path d="M14,10 L2,10 L2,12 L14,12 L14,10 L14,10 Z M14,6 L2,6 L2,8 L14,8 L14,6 L14,6 Z M2,16 L10,16 L10,14 L2,14 L2,16 L2,16 Z M21.5,11.5 L23,13 L16.01,20 L11.5,15.5 L13,14 L16.01,17 L21.5,11.5 L21.5,11.5 Z" id="Shape" fill="#5FA9FF" mask="url(#mask-2)"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
